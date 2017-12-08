@@ -1,6 +1,6 @@
 # vue-app
 
-> An Example SPA on Vue.js
+> An Example SPA on Vue.js 
 
 ## Build Setup
 
